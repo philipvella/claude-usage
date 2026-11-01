@@ -120,3 +120,7 @@ This is an **unofficial** project and is not affiliated with Anthropic. It uses 
 | "Request blocked by claude.ai (Cloudflare)" | Sign in again through the web window to refresh cookies. |
 | Launch at Login does nothing | Make sure the app is in `/Applications` (`./build.sh install`). |
 | Icon doesn't appear | The menu bar may be full. Quit some menu bar apps or use a menu bar manager. |
+
+## License
+
+Released under the [MIT License](LICENSE).
