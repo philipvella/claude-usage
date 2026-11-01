@@ -1,0 +1,21 @@
+# Build output
+.build/
+build/
+*.app
+
+# Xcode / SwiftPM
+.swiftpm/
+DerivedData/
+xcuserdata/
+*.xcodeproj/
+
+# Python
+.venv/
+
+# macOS
+.DS_Store
+
+# Secrets – never commit
+.env
+*.cookie
+session*.txt
